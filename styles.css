@@ -1,0 +1,54 @@
+/* Style Sheet for my Home Page 
+October 10, 2024 - last edited 
+Kristen Drabek */
+/* This is my general body which set the width and margin of the page along with the color. */
+body{
+    background-color: rgb(205, 199, 191);
+    width: 1465px;
+    margin: 0 auto;
+}
+/* This is my navigation section so users can go to the other pages on the website. */
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: normal;
+    border: 1;
+    border-color: black;
+    border-style: groove;
+    float: inline-end;
+    height: 294px;
+}
+/* This is my footer for my website with the overall style and font I wanted for my page. */
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal; 
+    text-align: center;
+}
+/* This is my header 4 since I wanted the text size to be a bit bigger than the other text. */
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+/* This is my aside stuff. I wanted the border to be be organized and look nice. */
+aside{
+    float: left;
+    column-rule: 2;
+    border: 2;
+    border-color: black;
+    border-style: groove;
+    width: 1460px;
+
+}
+/* This is my section where I put the main information and introduction to the website.
+I want it to be bold and in your face since it's the first thing you see when you find the webpage. */
+section{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    border: 1;
+    border-color: black;
+    border-style: groove;
+    width: 1300px;
+    text-align: center;
+    height: 294px;
+}
